@@ -1,4 +1,4 @@
-### 안녕하세요 구자윤입니다.👋
+### 안녕하세요👋
 좋은 개발자가 되기 위해 노력하고 있습니다. 
 <!--
 **JayoonKoo/JayoonKoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
