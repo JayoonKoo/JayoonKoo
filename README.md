@@ -3,7 +3,7 @@ Junior front-end developer
 
 ### Tech
 #### Language
-> <img src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=TypeScript"/> <img src="https://img.shields.io/badge/Python-306998?logo=TypeScript"/>
+> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white"/>
 
 <!--
 **JayoonKoo/JayoonKoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
