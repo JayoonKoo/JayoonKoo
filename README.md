@@ -13,6 +13,7 @@ Junior front-end developer
 
 ## 📫 How to reach me
 [![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rnwkdbs12@gmail.com)](mailto:rnwkdbs12@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9E%90%EC%9C%A4-%EA%B5%AC-90b545227/)](https://www.linkedin.com/in/%EC%9E%90%EC%9C%A4-%EA%B5%AC-90b545227/)
 <!--
 **JayoonKoo/JayoonKoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
