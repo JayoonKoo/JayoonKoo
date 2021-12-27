@@ -7,12 +7,12 @@ Junior front-end developer
 #### Front-End
 > <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/ReactNative-blue?style=flat-square&logo=React&logoColor=white"/>
 #### Back-End
-<img src="https://img.shields.io/badge/Express-eeeeee?style=flat-square&logo=Express&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Express-eeeeee?style=flat-square&logo=Express&logoColor=black"/>
 
 <br/>
 
 ## 📫 How to reach me
-(https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rnwkdbs12@gmail.com)](mailto:rnwkdbs12@gmail.com)
+[![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rnwkdbs12@gmail.com)](mailto:rnwkdbs12@gmail.com)
 <!--
 **JayoonKoo/JayoonKoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
