@@ -1,5 +1,7 @@
 # JayoonKoo
-Junior front-end developer
+웹 개발자 구자윤입니다! 
+React & React Native 와 Express 를 사용해서 풀스택 개발이 가능합니다. 
+현제 다니는 회사에서는 Spring, Jquery 를 사용해서 하이브리드 앱에 웹뷰 페이지를 개발하고 있습니다. 
 
 ## 💻 Tech
 #### Language
