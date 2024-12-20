@@ -1,7 +1,4 @@
 # JayoonKoo
-웹 개발자 구자윤입니다! <br/>
-Spring, JSP, Jquery 를 사용해서 하이브리드 앱에 웹뷰 페이지를 개발하는 일을 하고 있습니다. <br/>
-React & React Native 와 Express 를 사용하는것을 좋아합니다. <br/>
 
 ## 💻 Tech
 #### Language
